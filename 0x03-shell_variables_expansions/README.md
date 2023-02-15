@@ -1,5 +1,5 @@
 # 0x03-shell variables expansions
-[0-alias](/0x03-shell_variables_expansions/0-alias): Script that creates an alias 
+[0-alias](/0x03-shell_variables_expansions/0-alias): Script that creates an alias <br />
 [1-hello_you](/0x03-shell_variables_expansions/1-hello_you): Prints greeting to current user 
 [2-path](/0x03-shell_variables_expansions/2-path): Adding a directory to a path 
 [3-paths](/0x03-shell_variables_expansions/3-paths): Count the number of directories in the path 
