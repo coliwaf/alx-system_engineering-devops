@@ -1,2 +1,4 @@
 #!/usr/bin/env bash
+# checks what my current process number is
+
 echo $$
