@@ -1,0 +1,4 @@
+#!/usr/bin/env bash
+# stops 'To infinity and beyond' script the easier way
+
+pkill -f 4-to_infinity_and_beyond
