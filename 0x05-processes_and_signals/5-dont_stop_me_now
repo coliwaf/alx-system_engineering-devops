@@ -1,0 +1,4 @@
+#!/usr/bin/env bash
+# stops "To Infinity and beyond" script
+
+kill "$(pgrep -f 4-to_infinity_and_beyond)"
