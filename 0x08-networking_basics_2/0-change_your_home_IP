@@ -1,0 +1,7 @@
+#!/usr/bin/env bash
+# Reconfigures the Ubuntu hosts file
+
+cp /etc/hosts ~/hosts_2
+echo "127.0.0.2	localhost" > ~/hosts_2
+echo "8.8.8.8	facebook.com" >> ~/hosts_2
+cp -f ~/hosts_2 /etc/hosts
